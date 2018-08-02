@@ -24,6 +24,7 @@ class Account{
 
 //my code is self-documenting (._.) lol
 //problem number 29 and 30 are together
+/******  HAHA! FUNNY MAN ******/
 function main() {
 
     var Matt = new Account("Matt", 1000);
